@@ -2,6 +2,8 @@
 //SEN 632 Jan 2019 Project
 //The Grocery Helper
 //Student names:
+// Babita Pital
+//  Matt Hunter
 //	Kelsey Kinder
 //	Sam Gebra
 //
