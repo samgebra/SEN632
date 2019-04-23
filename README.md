@@ -1,11 +1,6 @@
 //-----------------------------------------------
 //SEN 632 Jan 2019 Project
 //The Grocery Helper
-//Student names:
-// Babita Pital
-//  Matt Hunter
-//	Kelsey Kinder
-//	Sam Gebra
 //
 //File name: readme.txt
 //This file was written with the intent to provide a //simple readme document to accompany our Grocery //Helper application, in an attempt to provide a //simple run-down of how to operate the application //we've built.
